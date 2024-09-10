@@ -39,75 +39,81 @@ RULESET:
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/OpenAi.list
 - - 🤖 ChatBot
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/ChatBot.list
-- - 🎯 全球直连
+- - 🎯 China
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/LocalAreaNetwork.list
-- - 🎯 全球直连
+- - 🎯 China
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/UnBan.list
-- - 🛑 广告拦截
+- - 🛑 ADblock
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/BanAD.list
 - - 🍃 应用净化
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/BanProgramAD.list
-- - 🛑 广告拦截
+- - 🛑 ADblock
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/BanEasyList.list
-- - 🛑 广告拦截
+- - 🛑 ADblock
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/BanEasyListChina.list
 - - 🛡️ 隐私防护
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/BanEasyPrivacy.list
-- - 📢 谷歌FCM
+- - 📢 GoogleFCM
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/GoogleFCM.list
-- - 📢 谷歌服务
+- - 📢 Google服务
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Google.list
-- - 🎯 全球直连
+- - 🎯 China
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Adobe.list
-- - Ⓜ️ 微软Bing
+- - Ⓜ️ MicrosoftBing
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Bing.list
-- - Ⓜ️ 微软云盘
+- - Ⓜ️ Microsoft云盘
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/OneDrive.list
-- - Ⓜ️ 微软服务
+- - Ⓜ️ Microsoft服务
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Microsoft.list
-- - 🍎 苹果服务
+- - 🍎 Apple
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Apple.list
-- - 📲 电报消息
+- - 📲 Telegram
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Telegram.list
+- - 📖 Facebook
+  - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Facebook.list
+- - 📱 Twitter
+  - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Twitter.list
+- -  📹 Instagram
+  - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Instagram.list
 - - 🎶 网易音乐
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/NetEaseMusic.list
 - - 🎶 Spotify
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Spotify.list
-- - 🎮 游戏平台
+- - 🎮 Game
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Epic.list
-- - 🎮 游戏平台
+- - 🎮 Game
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Origin.list
-- - 🎮 游戏平台
+- - 🎮 Game
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Sony.list
-- - 🎮 游戏平台
+- - 🎮 Game
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Steam.list
-- - 🎮 游戏平台
+- - 🎮 Game
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Nintendo.list
-- - 📹 油管视频
+- - 📹 Youtube
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/YouTube.list
-- - 🎥 奈飞视频
+- - 🎥 Netflix
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Netflix.list
-- - 📺 巴哈姆特
+- - 📺 Bahamut
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Bahamut.list
-- - 📺 哔哩哔哩
+- - 📺 Bilibili
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/BilibiliHMT.list
-- - 📺 哔哩哔哩
+- - 📺 Bilibili
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/Bilibili.list
 - - 🌏 国内媒体
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ChinaMedia.list
-- - 🌍 国外媒体
+- - 🌍 Streaming
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ProxyMedia.list
 - - 🚀 节点选择
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ProxyGFWlist.list
-- - 🎯 全球直连
+- - 🎯 China
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ChinaIp.list
-- - 🎯 全球直连
+- - 🎯 China
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ChinaDomain.list
-- - 🎯 全球直连
+- - 🎯 China
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ChinaCompanyIp.list
-- - 🎯 全球直连
+- - 🎯 China
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Download.list
-- - 🎯 全球直连
+- - 🎯 China
   - '[]GEOIP,CN'
 - - 🐟 漏网之鱼
   - '[]FINAL'
@@ -115,7 +121,7 @@ CUSTOM_PROXY_GROUP:
 - name: ♻️ 自动选择
   type: url-test
   rule: false
-- name: 🚀 手动切换1
+- name: 🚀 手动切换
   type: select
   manual: true
   rule: false
@@ -125,53 +131,58 @@ CUSTOM_PROXY_GROUP:
 - name: 🔮 负载均衡
   type: load-balance
   rule: false
-- name: 🔮 香港负载均衡
-  type: load-balance
-  rule: false
-  regex: 🇭🇰|HK|Hong|Kong|HGC|WTT|CMI|港
 - name: 🤖 ChatBot
   type: select
   prior: PROXY
-- name: 📲 电报消息
+- name: 📲 Telegram
   type: select
   prior: PROXY
-- name: 📹 油管视频
+- name: 📹 Youtube
   type: select
   prior: PROXY
-- name: 🎥 奈飞视频
+- name: 📖 Facebook
   type: select
   prior: PROXY
-- name: 📺 巴哈姆特
+- name: 📱 Twitter
   type: select
   prior: PROXY
-- name: 📺 哔哩哔哩
+- name: 📹 Instegram
+  type: select
+  prior: PROXY
+- name: 🎥 Netflix
+  type: select
+  prior: PROXY
+- name: 📺 Bahamut
+  type: select
+  prior: PROXY
+- name: 📺 Bilibili
   type: select
   prior: DIRECT
-- name: 🌍 国外媒体
+- name: 🌍 Streaming
   type: select
   prior: PROXY
 - name: 🌏 国内媒体
   type: select
   prior: DIRECT
-- name: 📢 谷歌FCM
+- name: 📢 GoogleFCM
   type: select
   prior: DIRECT
-- name: 📢 谷歌服务
+- name: 📢 Google服务
   type: select
   prior: PROXY
-- name: Ⓜ️ 微软Bing
+- name: Ⓜ️ MicrosoftBing
   type: select
   prior: PROXY
-- name: Ⓜ️ 微软云盘
+- name: Ⓜ️ Microsoft云盘
   type: select
   prior: DIRECT
-- name: Ⓜ️ 微软服务
+- name: Ⓜ️ Microsoft服务
   type: select
   prior: DIRECT
-- name: 🍎 苹果服务
+- name: 🍎 Apple
   type: select
   prior: DIRECT
-- name: 🎮 游戏平台
+- name: 🎮 Game
   type: select
   prior: DIRECT
 - name: 🎶 网易音乐
@@ -180,10 +191,10 @@ CUSTOM_PROXY_GROUP:
 - name: 🎶 Spotify
   type: select
   prior: DIRECT
-- name: 🎯 全球直连
+- name: 🎯 China
   type: select
   prior: DIRECT
-- name: 🛑 广告拦截
+- name: 🛑 ADblock
   type: select
   prior: REJECT
 - name: 🍃 应用净化
